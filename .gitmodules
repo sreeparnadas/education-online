@@ -1,3 +1,6 @@
 [submodule "node-api-server"]
 	path = node-api-server
 	url = https://github.com/sreeparnadas/node-api-server.git
+[submodule "angular-frontend-app"]
+	path = angular-frontend-app
+	url = https://github.com/sreeparnadas/angular-frontend-app.git
